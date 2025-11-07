@@ -1,0 +1,10 @@
+# Ignore raw data
+data/raw/
+
+# Ignore unnecessary files
+.ipynb_checkpoints/
+*.DS_Store
+
+# Ignore environment files
+venv/
+.env
